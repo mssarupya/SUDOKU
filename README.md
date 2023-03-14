@@ -27,6 +27,4 @@ The object of the puzzle is to fill the remaining squares, using all the numbers
 
 3.Number will be assigned to the cell if all the above conditions are satisfied.
 
-4.We defined a function to print the puzzle.
-
-if the input given by the user is not sufficient to solve the puzzle it displays "not possible".
+4.We defined a function to print the puzzle,if the input given by the user is not sufficient to solve the puzzle it displays "not possible".
